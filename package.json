@@ -1,0 +1,16 @@
+{
+  "name": "cherrydeals-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for CherryDeals",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.15.3",
+    "@supabase/supabase-js": "^2.38.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
